@@ -2,7 +2,7 @@
 
 /**
  * main-prints with "Puts",
-  * Return 0 at the end
+ * Return: 0 at the end
  */
 int main(void)
 {
