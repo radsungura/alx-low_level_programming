@@ -2,7 +2,7 @@
 
 /**
  * main - prints with "printf",
- * Principal function,
+ * Principal function
  * Return: 0 at the end
  */ 
 int main(void)
