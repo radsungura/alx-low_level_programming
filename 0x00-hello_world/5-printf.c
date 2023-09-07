@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
 * main - prints with "printf"
 * main function,
