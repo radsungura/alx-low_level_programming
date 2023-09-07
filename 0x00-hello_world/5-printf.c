@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints with "printf"
+ * main - prints with "printf",
  * main function,
- * Return: 0
+ * Return: 0 at the end
  */ 
 int main(void)
 {
