@@ -5,3 +5,4 @@
 4. prints the alphabet in lowercase
 5. prints all single digit numbers of base 10 starting from 0
 6.  prints all single digit numbers of base 10 starting from 0
+7. prints the lowercase alphabet in reverse
