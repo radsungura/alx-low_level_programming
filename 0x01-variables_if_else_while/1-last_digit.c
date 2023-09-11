@@ -5,11 +5,12 @@
 /**
  * main - assign a rondom number to "n",
  * prints the last digit of the number stored
- * Return: 0 
+ * Return: 0 if no error 
  */
 int main(void)
 {
 	int n;
+	
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	printf("Last digit of %d is %d ", n, n % 10);
