@@ -9,3 +9,4 @@
 8. prints all the numbers of base 16 in lowercase
 9.prints all possible combinations of single-digit numbers.
 10. prints all possible different combinations of two digits.
+11. prints all possible different combinations of three digits
