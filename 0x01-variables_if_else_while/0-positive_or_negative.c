@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - assigns a random number to "n"
- * check the polarity, and prints the result
+ * main - assigns a random number to "n",
+ * check the polarity, and prints the result,
  * Return: Always 0 if sucess
 */
 int main(void)
@@ -12,7 +12,6 @@ int main(void)
 	int n;
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	
 	if (n > 0)
 		printf("%d is positive\n", n);
 		else if (n == 0)
