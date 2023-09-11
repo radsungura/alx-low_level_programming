@@ -5,7 +5,7 @@
 /**
  * main - assigns a random number to "n",
  * check the polarity, and prints the result,
- * Return: Always 0 if sucess
+ * Return: 0 Always
  */
 int main(void)
 {
