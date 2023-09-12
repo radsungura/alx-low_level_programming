@@ -2,3 +2,4 @@
 1. prints the alphabet, in lowercase
 2. prints 10 times the alphabet, in lowercase
 3. function that checks for lowercase character.
+4. checks for alphabetic character.
