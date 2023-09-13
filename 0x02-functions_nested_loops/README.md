@@ -10,3 +10,4 @@
 9. prints the 9 times table, starting with 0.
 10. adds two integers and returns the result.
 11. prints all natural numbers from n to 98,
+100.   table, starting with 0
