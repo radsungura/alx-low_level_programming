@@ -11,3 +11,4 @@
 10. adds two integers and returns the result.
 11. prints all natural numbers from n to 98,
 100.   table, starting with 0
+101. computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded)
