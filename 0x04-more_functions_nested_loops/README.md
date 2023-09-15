@@ -10,3 +10,6 @@
 9.  prints the numbers from 1 to 100
 10. prints a triangle
 100.  prints the largest prime factor of the number 612852475143
+101. function that prints an integer.
+
+
