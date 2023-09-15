@@ -8,3 +8,4 @@
 7. draws a diagonal line on the terminal.
 8. prints a square with '#'
 9.  prints the numbers from 1 to 100
+10. prints a triangle
