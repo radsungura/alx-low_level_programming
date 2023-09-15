@@ -6,4 +6,4 @@
 5. prints 10 times the numbers, from 0 to 14
 6. draws a straight line in the terminal.
 7. draws a diagonal line on the terminal.
-8. prints a square
+8. prints a square with '#'
