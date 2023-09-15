@@ -7,3 +7,4 @@
 6. draws a straight line in the terminal.
 7. draws a diagonal line on the terminal.
 8. prints a square with '#'
+9.  prints the numbers from 1 to 100
