@@ -9,5 +9,6 @@
 8. prints n elements of an array of integers,
 9. copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest
 100. convert a string to an integer.
+101. generates random valid passwords for the program 101-crackme.
 
 
