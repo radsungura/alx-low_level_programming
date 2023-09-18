@@ -4,5 +4,6 @@
 3. prints a string, followed by a new line, to stdout
 4. prints a string, in reverse
 5. reverses a string.
+6. prints every other character of a string, starting with the first character,
 
 
