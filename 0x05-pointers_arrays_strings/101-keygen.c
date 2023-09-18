@@ -9,14 +9,14 @@
  */
 int main(void)
 {
-        int r[10];
+        int r[50];
         int i, temp, n;
 
         temp = 0;
 
         srand(time(0));
 
-	for (i = 0; i < 12; i++)
+	for (i = 0; i < 50; i++)
         {
                 r[i] = rand() % 39;
                 temp += (r[i] + '0');
