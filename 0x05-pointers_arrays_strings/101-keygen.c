@@ -9,8 +9,8 @@
  */
 int main(void)
 {
-        int pass[10];
-        int i, sum, n;
+        int passwrd[10];
+        int i, t, n;
 
         sum = 0;
 
@@ -19,12 +19,12 @@ int main(void)
 	for (i = 0; i < 12; i++)
         {
                 pass[i] = rand() % 39;
-                sum += (pass[i] + '0');
+                temp += (pass[i] + '0');
                 putchar(pass[i] + '0');
-                if ((2772 - sum) - '0' < 39)
+                if ((2772 - temp) - '0' < 39)
                 {
-	               n = 2772 - sum - '0';
-                       sum += n;
+	               n = 2772 - temp - '0';
+                       temp += n;
                        putchar(n + '0');
                        break;
                  }
