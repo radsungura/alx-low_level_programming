@@ -9,18 +9,18 @@
  */
 int main(void)
 {
-        int passwrd[10];
-        int i, t, n;
+        int r[10];
+        int i, temp, n;
 
-        sum = 0;
+        temp = 0;
 
         srand(time(0));
 
 	for (i = 0; i < 12; i++)
         {
-                pass[i] = rand() % 39;
-                temp += (pass[i] + '0');
-                putchar(pass[i] + '0');
+                r[i] = rand() % 39;
+                temp += (r[i] + '0');
+                putchar(r[i] + '0');
                 if ((2772 - temp) - '0' < 39)
                 {
 	               n = 2772 - temp - '0';
