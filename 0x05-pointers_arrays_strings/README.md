@@ -3,5 +3,6 @@
 2. returns the length of a string.
 3. prints a string, followed by a new line, to stdout
 4. prints a string, in reverse
+5. reverses a string.
 
 
