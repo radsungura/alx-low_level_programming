@@ -7,3 +7,4 @@
 6. capitalizes all words of a string.
 7. encodes a string into 1337.
 8. encodes a string using rot13.
+9. prints an integer.
