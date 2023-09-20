@@ -9,3 +9,4 @@
 8. encodes a string using rot13.
 9. prints an integer.
 10. prints a[2] = 98
+11. adds two numbers.
