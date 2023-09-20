@@ -8,3 +8,4 @@
 7. encodes a string into 1337.
 8. encodes a string using rot13.
 9. prints an integer.
+10. prints a[2] = 98
