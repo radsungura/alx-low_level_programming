@@ -10,3 +10,4 @@
 9. prints an integer.
 10. prints a[2] = 98
 11. adds two numbers.
+12. prints a buffer.
