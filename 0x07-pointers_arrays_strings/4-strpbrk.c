@@ -4,10 +4,11 @@
 /**
  * *_strpbrk - searches a string for any of a set of bytes
  * @s: where to locate the occurrence to search
- * @accept: string to compaire with
+ * @accept: string to compaire with,
  *
- * Return:  a pointer to the byte in s that matches 
- * one of the bytes in accept, or NULL if no such byte is found
+ * Return:  a pointer to the byte in s that matches,
+ * one of the bytes in accept,
+ * or NULL if no such byte is found
  */
 char *_strpbrk(char *s, char *accept)
 {
