@@ -6,3 +6,4 @@
 5. locates a substring.
 6. prints the chessboard.
 7. prints the sum of the two diagonals of a square matrix of integers.
+100. ets the value of a pointer to a char.
