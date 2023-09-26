@@ -4,8 +4,8 @@
 /**
  * print_diagsums - prints the sum of the two
  * diagonals of a square matrix of integers.
- * @a: result of square matrix to print the sum
- * @size: size of matrix
+ * @a: result of square matrix to print the sum,
+ * @size: size of the matrix
  */
 void print_diagsums(int *a, int size)
 {
