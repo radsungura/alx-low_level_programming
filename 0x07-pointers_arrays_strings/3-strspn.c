@@ -5,7 +5,8 @@
  * @s: initial segment to check
  * @accept: from wich we comparer
  *
- * Return: the number of bytes in the initial segment of 's'
+ * Return: the number of bytes in the
+ * initial segment of 's'
  */
 unsigned int _strspn(char *s, char *accept)
 {
@@ -29,5 +30,6 @@ unsigned int _strspn(char *s, char *accept)
 			return (f);
 		}
 	}
+
 	return (0);
 }
