@@ -2,3 +2,4 @@
 1. prints a string in reverse.
 2. returns the length of a string.
 3. returns the factorial of a given number.
+4. returns the value of x raised to the power of y.
