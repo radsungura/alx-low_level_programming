@@ -4,3 +4,4 @@
 3. returns the factorial of a given number.
 4. returns the value of x raised to the power of y.
 5. returns the natural square root of a number.
+6. returns 1 if the input integer is a prime number, otherwise return 0.
