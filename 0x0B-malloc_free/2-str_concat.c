@@ -27,7 +27,7 @@ char *str_concat(char *s1, char *s2)
 	j = 0;
 
 	if (s1)
-	{	
+	{
 		while (i < len1)
 		{
 			s3[i] = s1[i];
