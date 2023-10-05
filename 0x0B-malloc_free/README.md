@@ -5,3 +5,4 @@
 3. function that returns a pointer to a 2 dimensional array of integers.
 4. function that frees a 2 dimensional grid previously created by your 
    alloc_grid function.
+100. function that concatenates all the arguments of your program.
