@@ -1,9 +1,9 @@
 #include "variadic_functions.h"
 
 /** 
- * print_numbers - prints numbers, followed by a new line.
+ * print_numbers - prints number
  * @separator: is the string to be printed between numbers
- * @n: number of numbers passed
+ * @n: number of arguments passed
  */
 void print_numbers(const char *separator, const unsigned int n, ...)
 {
