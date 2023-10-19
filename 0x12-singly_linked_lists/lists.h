@@ -4,10 +4,11 @@
 /**
  * struct list_s - list ingly linked
  * @str: string - (malloc'ed string)
- * @len: string length
+ * @len: length of 'str'
  * @next: pointer for next node
  *
  * Description: singly linked list node structure
+ * for Holberton project
  */
 typedef struct list_s
 {
