@@ -4,3 +4,5 @@
 2. function that adds a new node at the beginning of a list_t list
 3. adds a new node at the end of a list_t list..
 4.  frees a list_t list.
+5. prints You're beat! and yet, you must allow,\nI bore my house 
+	upon my back!\n before the main function is executed.
