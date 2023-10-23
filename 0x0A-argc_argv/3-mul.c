@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * _atoi - convert string to int
+ * _atoi - converts string to an integer
  * @s: string to convert
  *
  * Return: an int
@@ -18,9 +18,8 @@ int _atoi(char *s)
 	f = 0;
 	digit = 0;
 
-	while (s[len] != '\0'
+	while (s[len] != '\0')
 		len++;
-
 	while (i < len && f == 0)
 	{
 		if (s[i] == '-')
@@ -38,14 +37,13 @@ int _atoi(char *s)
 		}
 		i++;
 	}
-
 	if (f == 0)
 		return (0);
 	return (n);
 }
 
 /**
- * main - multiplies two numbers
+ * main - multiplies two numbers received
  * @argc: number of arguments
  * @argv: array of arguments
  *
@@ -66,6 +64,5 @@ int main(int argc, char *argv[])
 	result = num1 * num2;
 
 	printf("%d\n", result);
-
 	return (0);
 }
