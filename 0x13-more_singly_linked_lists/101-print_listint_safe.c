@@ -14,7 +14,7 @@ size_t print_listint_safe(const listint_t *head)
 	tmp_n = head;
 	while (tmp_n)
 	{
-		prints a listint_t linked list.	printf("[%p] %d\n", (void *)tmp_n, tmp_n->n);
+		printf("[%p] %d\n", (void *)tmp_n, tmp_n->n);
 		counter++;
 		tmp_n = tmp_n->next;
 		l_n = head;
