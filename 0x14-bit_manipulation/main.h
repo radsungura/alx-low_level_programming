@@ -1,7 +1,8 @@
-#ifndef BITMANIP_H
-#define BITMANIP-H
+#ifndef HOBERTON_H
+#define HOBERTON-H
 
 unsigned int binary_to_uint(const char *b);
 void print_binary(unsigned long int n);
+int get_bit(unsigned long int n, unsigned int index);
 
 #endif
