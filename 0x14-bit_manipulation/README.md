@@ -6,3 +6,4 @@
 5. function that returns the number of bits you would need to 
 	flip to get from one number to another.
 100. function that checks the endianness.
+101. Find the password for this program
