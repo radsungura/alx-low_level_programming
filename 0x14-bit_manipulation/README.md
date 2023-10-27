@@ -5,3 +5,4 @@
 4. function that sets the value of a bit to 0 at a given index.
 5. function that returns the number of bits you would need to 
 	flip to get from one number to another.
+100. function that checks the endianness.
